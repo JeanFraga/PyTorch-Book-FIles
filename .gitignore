@@ -1,6 +1,7 @@
 # Dataset folders
 data/
 */data/
+horse-or-human/
 
 # Python cache
 __pycache__/
@@ -25,3 +26,5 @@ env/
 # *.pth
 # *.pt
 # *.pkl
+Chapter03/horse-or-human.zip
+Chapter03/validation-horse-or-human.zip
